@@ -9,7 +9,7 @@
  * ГорячихНапитковАвтомат и воспроизвести логику, заложенную в программе
  * Всё вышеуказанное создать согласно принципам ООП, пройденным на семинаре
  */
-package OOP-Nikolay.lesson1.exercise1;
+package Nikolay.OOP-Nikolay.lesson1.exercise1;
 
 import java.util.ArrayList;
 import java.util.List;
