@@ -1,4 +1,4 @@
-package Nikolay.lesson2.exercise1;
+package Nikolay.OOP-Nikolay.lesson2.exercise1;
 
 public class Human extends Actor {
 
