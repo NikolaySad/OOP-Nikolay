@@ -1,4 +1,4 @@
-package OOP-Nikolay.lesson3.exercise1;
+package Nikolay.OOP-Nikolay.lesson3.exercise1;
 
 import java.util.List;
 
