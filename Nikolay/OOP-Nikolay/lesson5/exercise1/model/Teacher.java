@@ -1,4 +1,4 @@
-package OOP-Nikolay.lesson5.exercise1.model;
+package Nikolay.OOP-Nikolay.lesson5.exercise1.model;
 
 public class Teacher extends User {
     private Integer teacherId;
