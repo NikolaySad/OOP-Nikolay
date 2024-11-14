@@ -1,4 +1,4 @@
-package OOP-Nikolay;
+package Nikolay.OOP-Nikolay.lesson6.exercise1;
 
 import java.util.Comparator;
 
