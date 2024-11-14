@@ -1,8 +1,8 @@
-package OOP-Nikolay.lesson5.exercise1.service;
+package Nikolay.OOP-Nikolay.lesson5.exercise1.service;
 
-import OOP-Nikolay.lesson5.exercise1.model.Student;
-import OOP-Nikolay.lesson5.exercise1.model.StudentGroup;
-import OOP-Nikolay.lesson5.exercise1.model.Teacher;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Student;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.StudentGroup;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Teacher;
 
 import java.util.List;
 
