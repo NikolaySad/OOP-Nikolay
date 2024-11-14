@@ -1,4 +1,4 @@
-package Nikolay;
+package Nikolay.OOP-Nikolay;
 
 import java.util.Scanner;
 
