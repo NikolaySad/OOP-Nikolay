@@ -1,6 +1,6 @@
-package OOP-Nikolay.lesson5.exercise1.view;
+package Nikolay.OOP-Nikolay.lesson5.exercise1.view;
 
-import NOOP-Nikolay.lesson5.exercise1.model.Teacher;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Teacher;
 
 import java.util.List;
 
