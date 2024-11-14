@@ -1,4 +1,4 @@
-package OOP-Nikolay.lesson2.exercise1;
+package Nikolay.OOP-Nikolay.lesson2.exercise1;
 
 public abstract class Actor implements ActorBehavoir {
     protected String name;
