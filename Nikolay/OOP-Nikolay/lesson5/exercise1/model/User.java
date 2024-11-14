@@ -1,5 +1,4 @@
-
-package OOP-Nikolay.lesson5.exercise1.model;
+package Nikolay.OOP-Nikolay.lesson5.exercise1.model;
 
 public abstract class User{
 	private String surname;
