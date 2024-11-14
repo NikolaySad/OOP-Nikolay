@@ -1,13 +1,13 @@
-package OOP-Nikolay.lesson5.exercise1.controller;
+package Nikolay.OOP-Nikolay.lesson5.exercise1.controller;
 
-import OOP-Nikolay.lesson5.exercise1.model.Student;
-import OOP-Nikolay.lesson5.exercise1.model.Type;
-import OOP-Nikolay.lesson5.exercise1.service.DataService;
-import OOP-Nikolay.lesson5.exercise1.service.StudentGroupService;
-import OOP-Nikolay.lesson5.exercise1.model.Teacher;
-import OOP-Nikolay.lesson5.exercise1.view.StudentGroupView;
-import OOP-Nikolay.lesson5.exercise1.view.StudentView;
-import OOP-Nikolay.lesson5.exercise1.view.TeacherView;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Student;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Type;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.service.DataService;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.service.StudentGroupService;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.model.Teacher;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.view.StudentGroupView;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.view.StudentView;
+import Nikolay.OOP-Nikolay.lesson5.exercise1.view.TeacherView;
 
 import java.util.ArrayList;
 import java.util.List;
