@@ -1,5 +1,4 @@
-
-package OOP-Nikolay;
+package Nikolay.OOP-Nikolay.lesson6.exercise1;
 
 public class User{
 	private String surname;
