@@ -1,4 +1,4 @@
-package OOP-Nikolay.lesson1.exercise1;
+package Nikolay.OOP-Nikolay.lesson1.exercise1;
 
 public class HotBeverage extends Product {
     private int volume;
